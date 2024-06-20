@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luyện</h1>
-<h3 align="center">Một người con Ninh Bình.</h3>
+<h3 align="center">Yahallo.</h3>
 <img align="right" alt="Coding" witdh="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luyenluu003&label=Profile%20views&color=0e75b6&style=flat" alt="luyenluu003" /> </p>
 
